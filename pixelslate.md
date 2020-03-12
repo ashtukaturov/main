@@ -35,3 +35,6 @@ https://linuxize.com/post/how-to-check-your-debian-version/
 > $ sudo apt-get update && sudo apt-get dist-upgrade
 
 https://support.google.com/pixelslate/answer/9136958?hl=en
+
+# Install VS Code and dev tools
+https://cloud.google.com/blog/products/application-development/build-a-dev-workflow-with-cloud-code-on-a-pixelbook
